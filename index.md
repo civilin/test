@@ -1,3 +1,3 @@
-# Home
+# Index
 
-This is the home page...
+This is the index.md page.
