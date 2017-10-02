@@ -1,3 +1,3 @@
-# index.md
+# Welcome
 
-This is the index.md file, converted to html for hosting. By simply editing in MarkDown, an entire site could be created. 
+Welcome to the Test website. The content of this website is composed in Markdown, and checked into GitHub for automatic conversion to HTML by Jekyll, the world's #1 static site generator.
